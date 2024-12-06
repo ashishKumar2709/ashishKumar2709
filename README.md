@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishKumar2709
 - 👀 I’m interested in coding and new technologies
-- 🌱 I’m currently learning web development
+- 🌱 Still learning and implementing web app features
 
 <!---
 ashishKumar2709/ashishKumar2709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
